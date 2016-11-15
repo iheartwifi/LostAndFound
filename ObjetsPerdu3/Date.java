@@ -2,11 +2,7 @@ import java.util.GregorianCalendar;
 import java.util.Calendar;
 
 /**
- * INF1120-40 - Aut 2015. 
- * Cette classe doit etre utilisee pour le TP3 et ne doit pas etre modifiee.
  *
- * @author melanie lord
- * @version 2015
  */
 public class Date {
 
